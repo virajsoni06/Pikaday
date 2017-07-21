@@ -1,5 +1,5 @@
 {
-  "name": "pikaday",
+  "name": "pikaday--virajsoni06",
   "version": "1.6.1",
   "description": "A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS",
   "keywords": [
@@ -13,7 +13,7 @@
   "main": "pikaday.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dbushell/Pikaday.git"
+    "url": "https://github.com/virajsoni06/Pikaday.git"
   },
   "optionalDependencies": {
     "moment": "2.x"

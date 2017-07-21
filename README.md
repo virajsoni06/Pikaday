@@ -21,7 +21,7 @@ Also see the [changelog](CHANGELOG.md)
 
 ## Installation
 
-    npm install pikaday
+    npm install pikaday--virajsoni06
 
 ## Usage
 
@@ -350,10 +350,14 @@ Also [@stas][stas] has a fork [stas/Pikaday][stas Pika], but is now quite old
 
 * * *
 
-## Authors
+## Original Authors
 
 * David Bushell [http://dbushell.com][Bushell] [@dbushell][Bushell Twitter]
 * Ramiro Rikkert [GitHub][Rikkert] [@RamRik][Rikkert Twitter]
+
+## Fork Authors
+
+* Viraj Soni [@virajs0ni][Viraj Twitter]
 
 Thanks to [@shoogledesigns][shoogledesigns] for the name.
 
